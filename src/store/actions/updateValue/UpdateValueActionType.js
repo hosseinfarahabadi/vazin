@@ -1,0 +1,3 @@
+export const ADD_TO_UPDATE = "ADD_TO_UPDATE";
+export const CHANGE_BTN_FLAG = "CHANGE_BTN_FLAG";
+export const REMOVE_FROM_UPDATE = "REMOVE_FROM_UPDATE";

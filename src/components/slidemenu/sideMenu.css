@@ -1,0 +1,20 @@
+.slide-menu-wrapper {
+  width: 80px;
+  height: 100vh;
+  background: linear-gradient(180deg, #269f9f 13.05%, #077070);
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px;
+  color: white;
+  justify-content: flex-start;
+}
+.slide-menu-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}

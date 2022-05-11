@@ -1,0 +1,1 @@
+export const OPEN_MEDIA_MODAL = "OPEN_MEDIA_MODAL";

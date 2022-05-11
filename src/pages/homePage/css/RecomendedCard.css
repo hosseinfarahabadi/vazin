@@ -1,0 +1,26 @@
+.recommend-btn {
+  background-color: #ff0000 !important;
+  border-radius: 25px !important;
+  box-shadow: none !important;
+}
+.recom-card-tex {
+  font-size: 1.2rem !important;
+}
+/* media query for responsiv */
+
+@media (max-width: 500px) {
+  /* mobile size */
+}
+@media (min-width: 501px) and (max-width: 900px) {
+  /* tablet size */
+}
+@media (min-width: 901px) and (max-width: 1124px) {
+}
+@media (min-width: 1125px) and (max-width: 1400px) {
+}
+@media (min-width: 1401px) and (max-width: 1600px) {
+  /* tablet size */
+}
+@media only screen and (max-width: 1601) {
+  /* tablet size */
+}
